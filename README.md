@@ -14,13 +14,13 @@ The task details are documented in the [SCT_DS_02.pdf](https://github.com/GollaS
 
 - Python (Pandas, NumPy, Matplotlib, etc.)
 - Jupyter Notebook
-- Git & GitHub
+- kaggle
 - Data Visualization
 
 ##  Learnings
 
 Through this task, I enhanced my skills in:
-- Advanced data preprocessing
+- Data preprocessing
 - Exploratory data analysis
 - Insight generation using Python libraries
 - Effective documentation of data science projects
